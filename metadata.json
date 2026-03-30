@@ -1,0 +1,5 @@
+{
+  "name": "Tasbiix Digital Counter",
+  "description": "A modern Islamic Tasbiix counter with goal tracking, streaks, and custom dhikr support.",
+  "requestFramePermissions": ["vibration"]
+}
